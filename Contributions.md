@@ -12,7 +12,7 @@ All members contributed to research, implementation, experimentation, and writin
 <li>Experiments & plots</li>
 </ol>
 
-### **Roles**
+## **Roles**
 
 * **Abhishek (Team Lead)** – Led and significantly contributed to *all* major components including the literature survey, theoretical formulation, GD and CVN-SGD implementations, experiment design, plotting, and overall coordination across the team.
 * **Manas** – Supported the baseline GD implementation
